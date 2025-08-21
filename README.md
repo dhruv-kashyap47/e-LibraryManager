@@ -1,4 +1,4 @@
-📚 Library Management System
+📚 e-LibraryManager ->
 Welcome to my Library Management System! This is a straightforward, easy-to-use console application
 built with Java. It's designed to manage a collection of books, making it simple to keep track of what's
 in the library and who has what.
@@ -23,8 +23,8 @@ java Library
 The menu will pop up, and you're ready to start managing your library!
 
 🛠 Technologies Used ->
-➔ Java: The core language for the entire application.
-➔ Object-Oriented Programming (OOP): The project is built using classes and objects (Book,
+-> Java: The core language for the entire application.
+-> Object-Oriented Programming (OOP): The project is built using classes and objects (Book,
 LibraryManager) to keep the code clean and organized.
-➔ Java Serialization: Used to save the state of the library to a file (library_data.ser), making the
+-> Java Serialization: Used to save the state of the library to a file (library_data.ser), making the
 data persistent.
